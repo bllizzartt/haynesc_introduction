@@ -1,0 +1,9 @@
+h1 {
+    text-align: left;
+    
+}
+
+p {
+    justify-content:flex-start;
+    color: blueviolet;
+}
